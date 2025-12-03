@@ -110,3 +110,29 @@ section{
 #love{
     color: rgb(184, 16, 50);
 }
+
+.like h6,.like .like-icon{
+    pointer-events: none;
+}
+.follow{
+    cursor: pointer;
+}
+.follow:active{
+    transform: scale(0.95);
+}
+.mute{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.363);
+    border-radius: 50%;
+    position: absolute;
+    top: 1%;
+    right: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+}
+.mute:active{
+    transform: scale(0.95);
+}
