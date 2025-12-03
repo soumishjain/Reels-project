@@ -11,17 +11,6 @@ const reels = [
     isFollowed: true
   },
   {
-    username: "tech_som",
-    likeCount: 8500,
-    isLiked: true,
-    commentCount: 210,
-    caption: "Unboxing the new M2 MacBook 🔥",
-    video: "video2.mp4",
-    userProfile: "https://i.pinimg.com/736x/e3/3c/b8/e33cb81c0a88389a0c67e94d8a2748ad.jpg",
-    shareCount: 310,
-    isFollowed: false
-  },
-  {
     username: "fit_muscle",
     likeCount: 19200,
     isLiked: false,
